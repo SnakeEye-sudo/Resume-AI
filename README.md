@@ -68,5 +68,18 @@ Client running at `http://localhost:5173`
 3. Paste a Job Description.
 4. View your Match Score, Missing Skills, and AI Suggestions.
 
+## 📱 Try Live Demo (GitHub Pages)
+
+Want to try the app without setting up locally? You can access the live demo here:
+- **Live Demo**: [Resume-AI Demo](https://snakeeye-sudo.github.io/Resume-AI/)
+- **Note**: For full functionality, the backend server must be running locally. This demo connects to your local backend.
+
+### Steps to use the live demo:
+1. Clone the repository and run the backend server (see Backend Setup above)
+2. Visit the [Live Demo Link](https://snakeeye-sudo.github.io/Resume-AI/)
+3. Upload your resume and job description
+4. The frontend will communicate with your local backend API
+
 ## 🤝 Contributing
+
 Issues and Pull Requests are welcome!
